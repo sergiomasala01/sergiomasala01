@@ -1,7 +1,3 @@
-style{
-  color: blue;
-}
-
 <br>
 <h1>Olá Devs</h1>
 
@@ -23,17 +19,21 @@ style{
 </div>   
 
 <br>
-       
+
+- 📚 Graduando em Sistemas de Informação pela UniSul <br>
+- 📚 Formado pela ETEC Adolpho Berezin em Desenvolvimento de Sistemas
+- 📚 Estudando .NET pela Desenvolvedor.io
+
+<br>
+
 <h2>Contato</h2>
 <div>
 <a href="https://www.linkedin.com/in/s%C3%A9rgio-masala-a54596287/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://instagram.com/masala013" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:sergiomasala15@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<h2></h2>
 
-- 📚 Graduando em Sistemas de Informação pela UniSul <br>
-- 📚 Formado pela ETEC Adolpho Berezin em Desenvolvimento de Sistemas
+
 
 
 
