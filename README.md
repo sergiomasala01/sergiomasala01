@@ -2,7 +2,7 @@
 <h2>Olá Devs</h2>
 
 <p>
-  Me chamo Sérgio Masala, atualmente tenho 19 anos, moro em Florianópolis - SC e estou me aventurando no mundo de desenvolvimento, pretendo ser um desenvolvedor full stack .NET e estou estudando para isso.
+  Me chamo Sérgio Masala, atualmente tenho 19 anos, moro em Florianópolis - SC e estou me aventurando no mundo de desenvolvimento, pretendo ser um desenvolvedor full stack ASP.NET e estou estudando para isso.
 <p>
 
 <br>
@@ -23,7 +23,7 @@
 
 - 📚 Graduando em Sistemas de Informação pela UniSul <br>
 - 📚 Formado pela ETEC Adolpho Berezin em Desenvolvimento de Sistemas
-- 📚 Estudando .NET pela Desenvolvedor.io
+- 📚 Estudando ASP.NET pela Desenvolvedor.io
 
 <br>
 
