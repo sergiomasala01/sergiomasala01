@@ -1,5 +1,5 @@
 <br>
-<h1>Olá Devs</h1>
+<h2>Olá Devs</h2>
 
 <p>
   Me chamo Sérgio Masala, atualmente tenho 19 anos, moro em Florianópolis - SC e estou me aventurando no mundo de desenvolvimento, pretendo ser um desenvolvedor full stack .NET e estou estudando para isso.
@@ -7,7 +7,7 @@
 
 <br>
 
-<h1>Tecnologias</h1>
+<h2>Tecnologias</h2>
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
