@@ -19,6 +19,7 @@
 </div>   
 
 <br>
+<br>
 
 - 📚 Graduando em Sistemas de Informação pela UniSul <br>
 - 📚 Formado pela ETEC Adolpho Berezin em Desenvolvimento de Sistemas
