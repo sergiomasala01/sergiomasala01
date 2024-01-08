@@ -1,10 +1,9 @@
 Olá, Eu sou o Sérgio!
 
-- 📚 Graduando em Sistemas de Informação 
 
-<div>
-  <a href="https//beacons.ai/ihawktz">
-  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=ihawktz&show_icons=true&theme=dracula">
-   <img height="180em" src="([https://github-readme-stats.vercel.app/api?username=ihawktz&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api/wakatime?username=ihawktz)](https://github.com/ihawktz/github-readme-stats)">
 
-</div>
+- 📚 Graduando em Sistemas de Informação pela UniSul 
+- 📚 Formado pela ETEC Adolpho Berezin em Desenvolvimento de Sistemas
+
+
+
