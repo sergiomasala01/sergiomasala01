@@ -1,3 +1,7 @@
+style{
+  color: blue;
+}
+
 <br>
 <h1>Olá Devs</h1>
 
