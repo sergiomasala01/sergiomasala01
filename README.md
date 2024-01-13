@@ -24,7 +24,7 @@
 <br>
 
 - 📚 Graduando em Sistemas de Informação pela UniSul <br>
-- 📚 Formado pela ETEC Adolpho Berezin em Desenvolvimento de Sistemas
+- 📚 Formado em Analise e Desenvolvimento de Sistemas pela ETEC Adolpho Berezin
 - 📚 Estudando ASP.NET, Entity Framework e Angular pela Desenvolvedor.io
 
 <br>
