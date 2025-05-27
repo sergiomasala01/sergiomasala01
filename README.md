@@ -38,12 +38,6 @@
 
 <br>
 
-<div>
-<a href="https://github.com/sergiomasala01">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiomasala01&show_icons=true&include_all_commits=true&count_private=false"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomasala01&layout=compact&langs_count=7"/>
-</div>
-
 
 
 
